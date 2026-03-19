@@ -15,6 +15,7 @@ Claude Code 잘 활용하기
 - 챕터 1: [Claude Code의 작동 방식](https://code.claude.com/docs/ko/how-claude-code-works)
   - 일정: 2026.03.19 목요일 22:00
   - 진태우: [스터디 문서](https://github.com/Dev-Survival-Protocol/claude-lab-tw/blob/main/Claude%20Code%20%EC%9E%91%EB%8F%99%20%EB%B0%A9%EC%8B%9D.md)
+  - 양중창: [스터디 문서](https://github.com/Dev-Survival-Protocol/claude-lab-yjc/blob/main/claude-code-basic/how-claude-code-works.md)
 - 챕터 2: [Claude Code 확장하기](https://code.claude.com/docs/ko/features-overview)
   - 일정: 2026.03.20 ~ 22일 언젠가
 - 챕터 3: [지침 및 메모리 저장](https://code.claude.com/docs/ko/memory)
