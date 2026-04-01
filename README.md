@@ -14,14 +14,15 @@ Claude Code 잘 활용하기
 ### 기간
 - 챕터 1: [Claude Code의 작동 방식](https://code.claude.com/docs/ko/how-claude-code-works)
   - 일정: 2026.03.19 목요일 22:00
-  - 진태우: [스터디 문서](https://github.com/Dev-Survival-Protocol/claude-lab-tw/blob/main/Claude%20Code%20%EC%9E%91%EB%8F%99%20%EB%B0%A9%EC%8B%9D.md)
+  - 진태우: [스터디 문서](https://github.com/taewoojin/the-second-brain/blob/master/AI/claude-code-core-concept/how-claude-code-works/README.md)
   - 양중창: [스터디 문서](https://github.com/Dev-Survival-Protocol/claude-lab-yjc/blob/main/claude-code-basic/how-claude-code-works.md)
 - 챕터 2: [Claude Code 확장하기](https://code.claude.com/docs/ko/features-overview)
   - 일정: 2026.03.23
-  - 진태우: [스터디 문서](https://github.com/taewoojin/the-second-brain/blob/master/AI/claude-code-key-concept/features-overview.md)
+  - 진태우: [스터디 문서](https://github.com/taewoojin/the-second-brain/blob/master/AI/claude-code-core-concept/features-overview/README.md)
   - 양중창: [스터디 문서](https://github.com/Dev-Survival-Protocol/claude-lab-yjc/blob/main/claude-code-basic/extend-claude-code.md)
 - 챕터 3: [지침 및 메모리 저장](https://code.claude.com/docs/ko/memory)
   - 일정: 2026.03.25
+  - 진태우: [스터디 문서](https://github.com/taewoojin/the-second-brain/blob/master/AI/claude-code-core-concept/memory.md)
 - 챕터 4: [일반적인 워크플로우](https://code.claude.com/docs/ko/common-workflows)
   - 일정: 2026.03.23 ~ 29일 언젠가
 
