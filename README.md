@@ -26,6 +26,7 @@ Claude Code 잘 활용하기
   - 양중창: [스터디 문서](https://github.com/Dev-Survival-Protocol/claude-lab-yjc/blob/main/claude-code-basic/memory.md)
 - 챕터 4: [claude directory](https://code.claude.com/docs/en/claude-directory)
   - 일정: 2026.04.04
+  - 진태우: [스터디 문서](https://github.com/taewoojin/the-second-brain/tree/master/AI/claude-code-core-concept/claude-directory)
 - 챕터 5: [context window](https://code.claude.com/docs/en/context-window)
 - 챕터 6: [권한 모드](https://code.claude.com/docs/ko/permission-modes)
 - 챕터 7: [일반적인 워크플로우](https://code.claude.com/docs/ko/common-workflows)
