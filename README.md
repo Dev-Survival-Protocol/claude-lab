@@ -30,8 +30,10 @@ Claude Code 잘 활용하기
   - 양중창: [스터디 문서](https://github.com/Dev-Survival-Protocol/claude-lab-yjc/blob/main/claude-code-basic/claude-directory.md)
 - 챕터 5: [context window](https://code.claude.com/docs/en/context-window)
   - 일정: 2026.04.12
+  - 양중창: [스터디 문서](https://github.com/didwndckd/claude-lab/blob/main/claude-code-basic/context-window.md)
 - 챕터 6: [권한 모드](https://code.claude.com/docs/ko/permission-modes)
   - 일정: 2026.04.12
+  - 양중창: [스터디 문서](https://github.com/didwndckd/claude-lab/blob/main/claude-code-basic/permission-modes.md)
 - 챕터 7: [일반적인 워크플로우](https://code.claude.com/docs/ko/common-workflows)
 - 챕터 8: [Claude Code 모범 사례](https://code.claude.com/docs/ko/best-practices)
 
