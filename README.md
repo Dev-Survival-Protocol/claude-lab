@@ -39,24 +39,24 @@ Claude Code 잘 활용하기
 - 챕터 7: [일반적인 워크플로우](https://code.claude.com/docs/ko/common-workflows)
   - 일정: 2026.04.19
   - 양중창: [스터디 문서](https://github.com/didwndckd/claude-lab/blob/main/claude-code-basic/common-workflows.md)
+  - 진태우: [스터디 문서](https://github.com/taewoojin/the-second-brain/blob/master/deprecated/AI/ClaudeCode/core-concept/best-practice/claude-code-best-practices.md)
 - 챕터 8: [Claude Code 모범 사례](https://code.claude.com/docs/ko/best-practices)
   - 일정: 2026.04.19
   - 양중창: [스터디 문서](https://github.com/didwndckd/claude-lab/blob/main/claude-code-basic/best-practices.md)
+  - 진태우: [스터디 문서](https://github.com/taewoojin/the-second-brain/blob/master/deprecated/AI/ClaudeCode/core-concept/best-practice/claude-code-best-practices.md)
 
 ---
 
-## 2차 스터디
-### 목적
-- 워크플로우 이해하기 위함
+## 2차 스터디(Action)
 
 ### 목표
-- iOS 개발 -> 플러그인 + 클로드
+- 면접 과제용 워크플로우/하네스 만들어보기
 
-### 커리큘럼
-예정: 나중에 변경될 수 있음
-	- [클로드 코드 공식 문서](https://code.claude.com/docs/ko/sub-agents) -  클로드 코드로 빌드하기 개념 모두 학습 
-	- [superpowers](https://github.com/taewoojin/superpowers) 플러그인 학습
-- https://x.com/affaanmustafa/status/2014040193557471352 
+### 결과물
+- 과제 문서를 토대로 직접 개발하지 않고 과제 완성 가능한 워크플로우/하네스
+- [repo](https://github.com/Dev-Survival-Protocol/homework-excutor)
 
-### 기간
-- 미정
+### 레퍼런스
+- [클로드 코드 공식 문서](https://code.claude.com/docs/ko/sub-agents) -  클로드 코드로 빌드하기 개념 모두 학습 
+- [superpowers](https://github.com/taewoojin/superpowers) 플러그인 학습
+- https://x.com/affaanmustafa/status/2014040193557471352
