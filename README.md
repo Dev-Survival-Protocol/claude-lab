@@ -38,8 +38,10 @@ Claude Code 잘 활용하기
   - 진태우: [스터디 문서](https://github.com/taewoojin/the-second-brain/blob/master/AI/ClaudeCode/core-concept/permission-modes.md)
 - 챕터 7: [일반적인 워크플로우](https://code.claude.com/docs/ko/common-workflows)
   - 일정: 2026.04.19
+  - 양중창: [스터디 문서](https://github.com/didwndckd/claude-lab/blob/main/claude-code-basic/common-workflows.md)
 - 챕터 8: [Claude Code 모범 사례](https://code.claude.com/docs/ko/best-practices)
   - 일정: 2026.04.19
+  - 양중창: [스터디 문서](https://github.com/didwndckd/claude-lab/blob/main/claude-code-basic/best-practices.md)
 
 ---
 
